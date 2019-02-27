@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\carlosjunior1983\\php-classes\\src"
+            "cjrweb\\": "vendor\\carlosjunior1983\\php-classes\\src"
         }
     }
 }
